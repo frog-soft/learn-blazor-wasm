@@ -7,11 +7,11 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorApp.dll": "sha256-HW9O7Ii5dcD35yKIZnhS4N7hJMAs58ytva\/4wZWGXpM=",
+      "BlazorApp.dll": "sha256-NQ8qxODgnsuWBaZXV4i8TkyCq1Y5CjavAJMkyYu9I9Q=",
       "Microsoft.AspNetCore.Components.dll": "sha256-YZzMMvvB3iUU\/NohHDgpcXFanEeHFnTEgYnSqvNShcM=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-7JaZWdOqtWZOBRVRZuc7a86b0NNehv\/o3qwiRt9xFzQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-K5K6Yv5a3FPPKoANXkplM+9Df2v1i7\/Io2a2o3pJkas=",
-      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-n1Qu4\/3OMMXDbA5D2sQDdzDRwmL63fo4yO7E9L7hPZo=",
+      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-GG94yFD5ovrSqdA6EzzSNW89qsdt7QqSPOncwFl+xb4=",
       "Microsoft.CSharp.dll": "sha256-0VSsSTZeC6wdvo\/jfln54KgLZalWZyA8GzJd7DDIX8g=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-X\/f4fDl2cuIRXeWHhK\/f2UqQbFioD+RU4a4CEh0zrrQ=",
       "Microsoft.Extensions.Configuration.dll": "sha256-DBOKSPriP2JDxVbbWrLXyD3K4\/x3RBifNBWk\/q1I39M=",
